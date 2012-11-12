@@ -1,0 +1,1333 @@
+diff -urN roadfighter-1.0.1269/maps/level1.mg2 roadfighter-1.0.1269-patched/maps/level1.mg2
+--- roadfighter-1.0.1269/maps/level1.mg2	2008-03-19 06:00:52.000000000 +1000
++++ roadfighter-1.0.1269-patched/maps/level1.mg2	2011-12-14 02:33:34.607189900 +1100
+@@ -1,97 +1,97 @@
+ TILE_SOURCES 3
+-graphics/road.bmp
+-graphics/level1.bmp
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ TILES 11
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 0 48 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 144 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 336 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 256 32 128
+ 2 2
+ TILES 19
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 0 128 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 128 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 160 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 192 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 0 32 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 32 32 80
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 320 0 96 80
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 320 80 96 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 112 96 112
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 224 48 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 96 224 64 112
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 224 224 128 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 352 96 96
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 192 352 112 112
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 0 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 72 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 144 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 216 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 288 36 72
+ 2 0
+ TILES 0
+diff -urN roadfighter-1.0.1269/maps/level2.mg2 roadfighter-1.0.1269-patched/maps/level2.mg2
+--- roadfighter-1.0.1269/maps/level2.mg2	2008-03-19 06:00:52.000000000 +1000
++++ roadfighter-1.0.1269-patched/maps/level2.mg2	2011-12-14 02:34:34.044189934 +1100
+@@ -1,123 +1,123 @@
+ TILE_SOURCES 4
+-graphics/road.bmp
+-graphics/level1.bmp
+-graphics/semaphore.bmp
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ TILES 11
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 0 48 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 144 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 336 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 256 32 128
+ 2 2
+ TILES 19
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 0 128 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 128 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 160 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 192 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 0 32 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 32 32 80
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 320 0 96 80
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 320 80 96 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 112 96 112
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 224 48 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 96 224 64 112
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 224 224 128 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 352 96 96
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 192 352 112 112
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 0 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 72 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 144 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 216 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 288 36 72
+ 2 0
+ TILES 8
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 0 128 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 416 0 64 384
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 160 128 96 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 160 256 128 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 256 0 80 112
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 128 48 64
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 192 80 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 320 80 112
+ 2 0
+ TILES 0
+diff -urN roadfighter-1.0.1269/maps/level3.mg2 roadfighter-1.0.1269-patched/maps/level3.mg2
+--- roadfighter-1.0.1269/maps/level3.mg2	2008-03-19 06:00:52.000000000 +1000
++++ roadfighter-1.0.1269-patched/maps/level3.mg2	2011-12-14 02:35:42.399189976 +1100
+@@ -1,140 +1,140 @@
+ TILE_SOURCES 5
+-graphics/road.bmp
+-graphics/level1.bmp
+-graphics/semaphore.bmp
+-graphics/level2.bmp
+-graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
+ TILES 13
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 0 48 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 144 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 336 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 400 128 40 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 400 256 64 128
+ 2 2
+ TILES 19
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 0 128 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 128 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 160 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 192 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 0 32 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 32 32 80
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 320 0 96 80
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 320 80 96 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 112 96 112
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 224 48 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 96 224 64 112
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 224 224 128 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 352 96 96
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 192 352 112 112
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 0 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 72 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 144 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 216 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 288 36 72
+ 2 0
+ TILES 8
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 0 128 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 416 0 64 384
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 160 128 64 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 160 256 96 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 256 0 80 112
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 128 48 64
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 192 80 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 320 80 112
+ 2 0
+ TILES 3
+-graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
+ 0 0 128 96
+ 2 0
+-graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
+ 0 96 64 96
+ 2 0
+-graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
+ 0 192 64 96
+ 2 0
+ TILES 0
+diff -urN roadfighter-1.0.1269/maps/level4.mg2 roadfighter-1.0.1269-patched/maps/level4.mg2
+--- roadfighter-1.0.1269/maps/level4.mg2	2008-03-19 06:00:52.000000000 +1000
++++ roadfighter-1.0.1269-patched/maps/level4.mg2	2011-12-14 02:37:36.122190045 +1100
+@@ -1,151 +1,151 @@
+ TILE_SOURCES 6
+-graphics/road.bmp
+-graphics/level1.bmp
+-graphics/semaphore.bmp
+-graphics/level2.bmp
+-graphics/level3.bmp
+-graphics/level4.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level4.bmp
+ TILES 13
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 0 48 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 144 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 336 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 400 128 40 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 400 256 64 128
+ 2 2
+ TILES 19
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 0 128 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 128 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 160 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 192 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 0 32 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 32 32 80
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 320 0 96 80
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 320 80 96 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 112 96 112
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 224 48 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 96 224 64 112
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 224 224 128 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 352 96 96
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 192 352 112 112
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 0 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 72 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 144 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 216 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 288 36 72
+ 2 0
+ TILES 8
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 0 128 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 416 0 64 384
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 160 128 64 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 160 256 96 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 256 0 80 112
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 128 48 64
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 192 80 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 320 80 112
+ 2 0
+ TILES 3
+-graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
+ 0 0 128 96
+ 2 0
+-graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
+ 0 96 64 96
+ 2 0
+-graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
+ 0 192 64 96
+ 2 0
+ TILES 3
+-graphics/level4.bmp
++/usr/share/games/roadfighter/graphics/level4.bmp
+ 0 0 88 592
+ 2 0
+-graphics/level4.bmp
++/usr/share/games/roadfighter/graphics/level4.bmp
+ 176 0 72 592
+ 2 0
+-graphics/level4.bmp
++/usr/share/games/roadfighter/graphics/level4.bmp
+ 320 0 128 128
+ 2 0
+ TILES 0
+diff -urN roadfighter-1.0.1269/maps/level5.mg2 roadfighter-1.0.1269-patched/maps/level5.mg2
+--- roadfighter-1.0.1269/maps/level5.mg2	2008-03-19 06:00:52.000000000 +1000
++++ roadfighter-1.0.1269-patched/maps/level5.mg2	2011-12-14 02:39:22.365190110 +1100
+@@ -1,180 +1,180 @@
+ TILE_SOURCES 7
+-graphics/road.bmp
+-graphics/level1.bmp
+-graphics/semaphore.bmp
+-graphics/level2.bmp
+-graphics/level3.bmp
+-graphics/level4.bmp
+-graphics/level5.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level4.bmp
++/usr/share/games/roadfighter/graphics/level5.bmp
+ TILES 13
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 0 48 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 144 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 336 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 400 128 40 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 400 256 64 128
+ 2 2
+ TILES 19
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 0 128 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 128 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 160 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 192 128 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 0 32 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 32 32 80
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 320 0 96 80
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 320 80 96 32
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 256 112 96 112
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 224 48 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 96 224 64 112
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 224 224 128 128
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 0 352 96 96
+ 2 0
+-graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
+ 192 352 112 112
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 0 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 72 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 144 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 216 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 288 36 72
+ 2 0
+ TILES 8
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 0 128 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 416 0 64 384
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 160 128 64 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 160 256 96 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 256 0 80 112
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 128 48 64
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 192 80 128
+ 2 0
+-graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
+ 0 320 80 112
+ 2 0
+ TILES 3
+-graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
+ 0 0 128 96
+ 2 0
+-graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
+ 0 96 64 96
+ 2 0
+-graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
+ 0 192 64 96
+ 2 0
+ TILES 3
+-graphics/level4.bmp
++/usr/share/games/roadfighter/graphics/level4.bmp
+ 0 0 88 592
+ 2 0
+-graphics/level4.bmp
++/usr/share/games/roadfighter/graphics/level4.bmp
+ 176 0 72 592
+ 2 0
+-graphics/level4.bmp
++/usr/share/games/roadfighter/graphics/level4.bmp
+ 320 0 128 128
+ 2 0
+ TILES 9
+-graphics/level5.bmp
++/usr/share/games/roadfighter/graphics/level5.bmp
+ 0 0 128 464
+ 2 0
+-graphics/level5.bmp
++/usr/share/games/roadfighter/graphics/level5.bmp
+ 256 0 48 384
+ 2 0
+-graphics/level5.bmp
++/usr/share/games/roadfighter/graphics/level5.bmp
+ 352 0 128 128
+ 2 0
+-graphics/level5.bmp
++/usr/share/games/roadfighter/graphics/level5.bmp
+ 608 0 48 128
+ 2 0
+-graphics/level5.bmp
++/usr/share/games/roadfighter/graphics/level5.bmp
+ 608 128 48 128
+ 2 0
+-graphics/level5.bmp
++/usr/share/games/roadfighter/level5.bmp
+ 352 128 128 112
+ 2 0
+-graphics/level5.bmp
++/usr/share/games/roadfighter/level5.bmp
+ 352 240 128 32
+ 2 0
+-graphics/level5.bmp
++/usr/share/games/roadfighter/graphics/level5.bmp
+ 352 272 128 112
+ 2 0
+-graphics/level5.bmp
++/usr/share/games/roadfighter/graphics/level5.bmp
+ 0 80 128 384
+ 2 0
+ TILES 0
+diff -urN roadfighter-1.0.1269/maps/level6.mg2 roadfighter-1.0.1269-patched/maps/level6.mg2
+--- roadfighter-1.0.1269/maps/level6.mg2	2008-03-19 06:00:52.000000000 +1000
++++ roadfighter-1.0.1269-patched/maps/level6.mg2	2011-12-14 02:40:07.906190137 +1100
+@@ -1,66 +1,66 @@
+ TILE_SOURCES 8
+-graphics/road.bmp
+-graphics/level1.bmp
+-graphics/semaphore.bmp
+-graphics/level2.bmp
+-graphics/level3.bmp
+-graphics/level4.bmp
+-graphics/level5.bmp
+-graphics/level6.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
++/usr/share/games/roadfighter/graphics/level1.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/level2.bmp
++/usr/share/games/roadfighter/graphics/level3.bmp
++/usr/share/games/roadfighter/graphics/level4.bmp
++/usr/share/games/roadfighter/graphics/level5.bmp
++/usr/share/games/roadfighter/graphics/level6.bmp
+ TILES 13
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 0 48 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 144 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 336 0 64 128
+ 2 0
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 128 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 192 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 288 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 0 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 96 256 32 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 400 128 40 128
+ 2 2
+-graphics/road.bmp
++/usr/share/games/roadfighter/graphics/road.bmp
+ 400 256 64 128
+ 2 2
+ TILES 5
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 0 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 72 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 144 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 216 36 72
+ 2 0
+-graphics/semaphore.bmp
++/usr/share/games/roadfighter/graphics/semaphore.bmp
+ 0 288 36 72
+ 2 0
+ TILES 0
+@@ -68,22 +68,22 @@
+ TILES 0
+ TILES 0
+ TILES 6
+-graphics/level6.bmp
++/usr/share/games/roadfighter/graphics/level6.bmp
+ 0 0 128 128
+ 2 0
+-graphics/level6.bmp
++/usr/share/games/roadfighter/graphics/level6.bmp
+ 0 128 96 16
+ 2 0
+-graphics/level6.bmp
++/usr/share/games/roadfighter/graphics/level6.bmp
+ 0 272 96 128
+ 2 0
+-graphics/level6.bmp
++/usr/share/games/roadfighter/graphics/level6.bmp
+ 0 272 96 128
+ 2 0
+-graphics/level6.bmp
++/usr/share/games/roadfighter/graphics/level6.bmp
+ 192 176 64 80
+ 2 0
+-graphics/level6.bmp
++/usr/share/games/roadfighter/graphics/level6.bmp
+ 192 368 64 32
+ 2 0
+ TILES 0
+diff -urN roadfighter-1.0.1269/src/CGame.cpp roadfighter-1.0.1269-patched/src/CGame.cpp
+--- roadfighter-1.0.1269/src/CGame.cpp	2008-03-19 06:00:21.000000000 +1000
++++ roadfighter-1.0.1269-patched/src/CGame.cpp	2011-12-14 02:32:07.733189843 +1100
+@@ -79,10 +79,10 @@
+ 
+ 	init_quick_tables();
+ 
+-	font=TTF_OpenFont("fonts/tanglewo.ttf",16);
++	font=TTF_OpenFont("/usr/share/games/roadfighter/fonts/tanglewo.ttf",16);
+ 
+-	player1_car=IMG_Load("graphics/car1.bmp");
+-	player2_car=IMG_Load("graphics/car2.bmp");
++	player1_car=IMG_Load("/usr/share/games/roadfighter/graphics/car1.bmp");
++	player2_car=IMG_Load("/usr/share/games/roadfighter/graphics/car2.bmp");
+ 
+ 	player_tiles.Add(new CTile(0,0,32,32,player1_car,true));
+ 	player_tiles.Add(new CTile(0,32,32,32,player1_car,true));
+@@ -104,14 +104,14 @@
+ 	player_tiles.Add(new CTile(0,224,32,32,player2_car,true));
+ 	player_tiles.Add(new CTile(0,256,32,32,player2_car,true));
+ 
+-	enemy_cars=IMG_Load("graphics/enemycars.bmp");
++	enemy_cars=IMG_Load("/usr/share/games/roadfighter/graphics/enemycars.bmp");
+ 
+ 	enemy_tiles.Add(new CTile(0,0,32,32,enemy_cars,true));
+ 	enemy_tiles.Add(new CTile(0,32,32,32,enemy_cars,true));
+ 	enemy_tiles.Add(new CTile(0,64,32,32,enemy_cars,true));
+ 	enemy_tiles.Add(new CTile(0,96,32,64,enemy_cars,true));
+ 
+-	fuel_sfc=IMG_Load("graphics/fuel.bmp");
++	fuel_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/fuel.bmp");
+ 
+ 	
+ 	if (start_delay!=default_start_delay) { /* There is a SEMAPHORE */ 
+@@ -137,14 +137,14 @@
+ 		objects.Add(o);
+ 	} /* if */ 
+ 
+-	empty_sfc=IMG_Load("graphics/empty.bmp");
+-	fuelscores_sfc=IMG_Load("graphics/fuel_scores.bmp");
++	empty_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/empty.bmp");
++	fuelscores_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/fuel_scores.bmp");
+ //	start_sfc=IMG_Load("graphics/start.bmp");
+-	checkpoint_sfc=IMG_Load("graphics/checkpoint.bmp");
+-	goal_sfc=IMG_Load("graphics/goal.bmp");
+-	obstacles_sfc=IMG_Load("graphics/obstacles.bmp");
+-	pause_sfc=IMG_Load("graphics/pause.bmp");
+-	explosion_sfc=IMG_Load("graphics/explosion.bmp");
++	checkpoint_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/checkpoint.bmp");
++	goal_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/goal.bmp");
++	obstacles_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/obstacles.bmp");
++	pause_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/pause.bmp");
++	explosion_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/explosion.bmp");
+ 
+ 	extra_tiles.Add(new CTile(0,0,32,32,fuel_sfc,true));	/* 0 */ 
+ 
+@@ -201,18 +201,18 @@
+ 		CAR_INTERVAL=12;
+ 	} /* if */ 
+ 
+-	S_takefuel=Sound_create_sound("sound/takefuel");
+-	S_redlight=Sound_create_sound("sound/redlight");
+-	S_greenlight=Sound_create_sound("sound/greenlight");
+-	S_crash=Sound_create_sound("sound/car_crash");
+-	S_carstart=Sound_create_sound("sound/car_start");
+-	S_fuelempty=Sound_create_sound("sound/fuelempty");
+-	S_caradvance=Sound_create_sound("sound/car_pass");
+-	S_carengine=Sound_create_sound("sound/car_running");
+-	S_carskid=Sound_create_sound("sound/car_brake");
+-	S_water=Sound_create_sound("sound/water");
+-	S_collision=Sound_create_sound("sound/collision");
+-	S_truck=Sound_create_sound("sound/truck");
++	S_takefuel=Sound_create_sound("/usr/share/games/roadfighter/sound/takefuel");
++	S_redlight=Sound_create_sound("/usr/share/games/roadfighter/sound/redlight");
++	S_greenlight=Sound_create_sound("/usr/share/games/roadfighter/sound/greenlight");
++	S_crash=Sound_create_sound("/usr/share/games/roadfighter/sound/car_crash");
++	S_carstart=Sound_create_sound("/usr/share/games/roadfighter/sound/car_start");
++	S_fuelempty=Sound_create_sound("/usr/share/games/roadfighter/sound/fuelempty");
++	S_caradvance=Sound_create_sound("/usr/share/games/roadfighter/sound/car_pass");
++	S_carengine=Sound_create_sound("/usr/share/games/roadfighter/sound/car_running");
++	S_carskid=Sound_create_sound("/usr/share/games/roadfighter/sound/car_brake");
++	S_water=Sound_create_sound("/usr/share/games/roadfighter/sound/water");
++	S_collision=Sound_create_sound("/usr/share/games/roadfighter/sound/collision");
++	S_truck=Sound_create_sound("/usr/share/games/roadfighter/sound/truck");
+ 
+ 	fastcar_counter=0;
+ 	esc_pressed=false;
+@@ -430,8 +430,8 @@
+ 		if (start_delay2>0) {
+ 			start_delay2--;
+ 			if (start_delay2==0) {
+-				if ((current_level%2)==1) Sound_create_music("sound/game_theme",-1);
+-									 else Sound_create_music("sound/game_theme2",-1);
++				if ((current_level%2)==1) Sound_create_music("/usr/share/games/roadfighter/sound/game_theme",-1);
++									 else Sound_create_music("/usr/share/games/roadfighter/sound/game_theme2",-1);
+ 			} /* if */ 
+ 		} /* if */ 
+ 	} /* if */ 
+diff -urN roadfighter-1.0.1269/src/CRoadFighter.cpp roadfighter-1.0.1269-patched/src/CRoadFighter.cpp
+--- roadfighter-1.0.1269/src/CRoadFighter.cpp	2008-03-19 06:00:21.000000000 +1000
++++ roadfighter-1.0.1269-patched/src/CRoadFighter.cpp	2011-12-14 02:32:07.734189844 +1100
+@@ -57,25 +57,25 @@
+ 
+ 	for(i=0;i<SDLK_LAST;i++) old_keyboard[i]=0;
+ 
+-	font1=TTF_OpenFont("fonts/comicbd.ttf", 16);
+-	font2big=TTF_OpenFont("fonts/tanglewo.ttf", FONT_SIZE);
+-	font2medium=TTF_OpenFont("fonts/tanglewo.ttf", int(FONT_SIZE*0.8));
+-	font2small=TTF_OpenFont("fonts/tanglewo.ttf", int(FONT_SIZE*0.65));
+-
+-	disclaimer_sfc=IMG_Load("graphics/disclaimer.jpg");
+-	retroremakes_sfc=IMG_Load("graphics/retroremakes.bmp");
+-	konami1_sfc=IMG_Load("graphics/konami1.jpg");
+-	konami2_sfc=IMG_Load("graphics/konami2.jpg");
+-	tittle_sfc=IMG_Load("graphics/title.jpg");
+-	arrow_sfc=IMG_Load("graphics/arrow.bmp");
++	font1=TTF_OpenFont("/usr/share/games/roadfighter/fonts/comicbd.ttf", 16);
++	font2big=TTF_OpenFont("/usr/share/games/roadfighter/fonts/tanglewo.ttf", FONT_SIZE);
++	font2medium=TTF_OpenFont("/usr/share/games/roadfighter/fonts/tanglewo.ttf", int(FONT_SIZE*0.8));
++	font2small=TTF_OpenFont("/usr/share/games/roadfighter/fonts/tanglewo.ttf", int(FONT_SIZE*0.65));
++
++	disclaimer_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/disclaimer.jpg");
++	retroremakes_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/retroremakes.bmp");
++	konami1_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/konami1.jpg");
++	konami2_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/konami2.jpg");
++	tittle_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/title.jpg");
++	arrow_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/arrow.bmp");
+ 	scoreboard_sfc=0;
+-	gamemap_sfc=IMG_Load("graphics/gamemap.bmp");
+-	minicar1_sfc=IMG_Load("graphics/minicar1.bmp");
+-	minicar2_sfc=IMG_Load("graphics/minicar2.bmp");
+-	gameover_sfc=IMG_Load("graphics/gameover.jpg");
+-	scoreboard_sfc=IMG_Load("graphics/scoreboard.bmp");
++	gamemap_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/gamemap.bmp");
++	minicar1_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/minicar1.bmp");
++	minicar2_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/minicar2.bmp");
++	gameover_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/gameover.jpg");
++	scoreboard_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/scoreboard.bmp");
+ 	scoreboard2_sfc=0;
+-	scoreboardleft_sfc=IMG_Load("graphics/scoreboard_left.bmp");
++	scoreboardleft_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/scoreboard_left.bmp");
+ 
+ 	{
+ 		SDL_Color c;
+@@ -115,10 +115,10 @@
+ 		/* ... */ 
+ 	}
+ 
+-	S_menu_move=Sound_create_sound("sound/menu_move");
+-	S_menu_select=Sound_create_sound("sound/menu_select");
+-	S_menu_in=Sound_create_sound("sound/logo_in");
+-	S_menu_out=Sound_create_sound("sound/logo_out");
++	S_menu_move=Sound_create_sound("/usr/share/games/roadfighter/sound/menu_move");
++	S_menu_select=Sound_create_sound("/usr/share/games/roadfighter/sound/menu_select");
++	S_menu_in=Sound_create_sound("/usr/share/games/roadfighter/sound/logo_in");
++	S_menu_out=Sound_create_sound("/usr/share/games/roadfighter/sound/logo_out");
+ 
+ 	replay_fp=0;
+ 
+diff -urN roadfighter-1.0.1269/src/gameover_state.cpp roadfighter-1.0.1269-patched/src/gameover_state.cpp
+--- roadfighter-1.0.1269/src/gameover_state.cpp	2008-03-19 06:00:21.000000000 +1000
++++ roadfighter-1.0.1269-patched/src/gameover_state.cpp	2011-12-14 02:32:07.741189846 +1100
+@@ -20,7 +20,7 @@
+ 		gameover_state=0;
+ 		gameover_timmer=0;
+ 		Sound_music_volume(MIX_MAX_VOLUME);
+-		Sound_create_music("sound/gameover",0);
++		Sound_create_music("/usr/share/games/roadfighter/sound/gameover",0);
+ 	} /* if */ 
+ 
+ 	if (gameover_state==1) {
+diff -urN roadfighter-1.0.1269/src/interlevel_state.cpp roadfighter-1.0.1269-patched/src/interlevel_state.cpp
+--- roadfighter-1.0.1269/src/interlevel_state.cpp	2008-03-19 06:00:21.000000000 +1000
++++ roadfighter-1.0.1269-patched/src/interlevel_state.cpp	2011-12-14 02:32:07.741189846 +1100
+@@ -21,12 +21,12 @@
+ extern int SCREEN_Y;
+ extern int start_level;
+ 
+-char *maps[6]={"maps/level1.mg2",
+-			   "maps/level2.mg2",
+-			   "maps/level3.mg2",
+-			   "maps/level4.mg2",
+-			   "maps/level5.mg2",
+-			   "maps/level6.mg2"};
++char *maps[6]={"/usr/share/games/roadfighter/maps/level1.mg2",
++			   "/usr/share/games/roadfighter/maps/level2.mg2",
++			   "/usr/share/games/roadfighter/maps/level3.mg2",
++			   "/usr/share/games/roadfighter/maps/level4.mg2",
++			   "/usr/share/games/roadfighter/maps/level5.mg2",
++			   "/usr/share/games/roadfighter/maps/level6.mg2"};
+ 
+ 
+ int CRoadFighter::interlevel_cycle(void)
+@@ -46,7 +46,7 @@
+ 			score1=*l[0];
+ 			if (n_players>1 && l.Length()>1) score2=*l[1];
+ 		} else {
+-			Sound_create_music("sound/start",0);
++			Sound_create_music("/usr/share/games/roadfighter/sound/start",0);
+ 		} /* if */ 
+ 
+ 		if (current_level>nlevels) {
+@@ -57,23 +57,23 @@
+ 
+ 		if (current_level<6) {
+ 			SDL_FreeSurface(scoreboard2_sfc);
+-			if (n_players>1) scoreboard2_sfc=IMG_Load("graphics/s_board12p.bmp");
+-						else scoreboard2_sfc=IMG_Load("graphics/s_board11p.bmp");
++			if (n_players>1) scoreboard2_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/s_board12p.bmp");
++						else scoreboard2_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/s_board11p.bmp");
+ 		} else {
+-			if (n_players>1) scoreboard2_sfc=IMG_Load("graphics/s_board22p.bmp");
+-						else scoreboard2_sfc=IMG_Load("graphics/s_board21p.bmp");
++			if (n_players>1) scoreboard2_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/s_board22p.bmp");
++						else scoreboard2_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/s_board21p.bmp");
+ 		} /* if */ 
+ 
+ 		desired_scoreboard_x=SCREEN_X-scoreboard_sfc->w;
+ 		if (n_players>1) desired_scoreboard_x=SCREEN_X-128;
+ 					else desired_scoreboard_x=SCREEN_X-144;
+ 
+-		if (current_level==1) levelintro_sfc=IMG_Load("graphics/stage1.jpg");
+-		if (current_level==2) levelintro_sfc=IMG_Load("graphics/stage2.jpg");;
+-		if (current_level==3) levelintro_sfc=IMG_Load("graphics/stage3.jpg");;
+-		if (current_level==4) levelintro_sfc=IMG_Load("graphics/stage4.jpg");;
+-		if (current_level==5) levelintro_sfc=IMG_Load("graphics/stage5.jpg");;
+-		if (current_level==6) levelintro_sfc=IMG_Load("graphics/stage6.jpg");;
++		if (current_level==1) levelintro_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/stage1.jpg");
++		if (current_level==2) levelintro_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/stage2.jpg");;
++		if (current_level==3) levelintro_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/stage3.jpg");;
++		if (current_level==4) levelintro_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/stage4.jpg");;
++		if (current_level==5) levelintro_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/stage5.jpg");;
++		if (current_level==6) levelintro_sfc=IMG_Load("/usr/share/games/roadfighter/graphics/stage6.jpg");;
+ 
+ 		/* Create the game: */ 
+ 		delete game;
+diff -urN roadfighter-1.0.1269/src/menu_state.cpp roadfighter-1.0.1269-patched/src/menu_state.cpp
+--- roadfighter-1.0.1269/src/menu_state.cpp	2008-03-19 06:00:21.000000000 +1000
++++ roadfighter-1.0.1269-patched/src/menu_state.cpp	2011-12-14 02:32:07.742189846 +1100
+@@ -39,7 +39,7 @@
+ 		menu_current_menu=0;
+ 		menu_redefining_key=-1;
+ 		if (S_menu_in!=0) Sound_play(S_menu_in);
+-		Sound_create_music("sound/menu_theme",-1);
++		Sound_create_music("/usr/share/games/roadfighter/sound/menu_theme",-1);
+ 		menu_credits_timmer=0;
+ 	} /* if */ 
+ 
+diff -urN roadfighter-1.0.1269/src/playing_state.cpp roadfighter-1.0.1269-patched/src/playing_state.cpp
+--- roadfighter-1.0.1269/src/playing_state.cpp	2008-03-19 06:00:21.000000000 +1000
++++ roadfighter-1.0.1269-patched/src/playing_state.cpp	2011-12-14 02:32:07.743189846 +1100
+@@ -99,7 +99,7 @@
+ 	} else {
+ 		if (!playing_reachedend && game->level_completed()) {
+ 			playing_reachedend=true;
+-			Sound_create_music("sound/levelcomplete",0);
++			Sound_create_music("/usr/share/games/roadfighter/sound/levelcomplete",0);
+ 		} /* if */ 
+ 	} /* if */ 
+ 

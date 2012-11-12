@@ -1,0 +1,12 @@
+diff -urN roadfighter-1.0.1269/src/debug.cpp roadfighter-1.0.1269-patched/src/debug.cpp
+--- roadfighter-1.0.1269/src/debug.cpp	2008-03-19 06:00:21.000000000 +1000
++++ roadfighter-1.0.1269-patched/src/debug.cpp	2011-12-14 01:45:42.114188155 +1100
+@@ -28,7 +28,7 @@
+     if (fp == 0)
+ 		fp = f1open("roadfighter.dbg", "w", USERDATA);
+ 
+-    fprintf(fp, text);
++    fprintf(fp, "%s", text);
+     fflush(fp);
+ } /* glprintf */
+ 

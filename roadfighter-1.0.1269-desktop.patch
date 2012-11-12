@@ -1,0 +1,17 @@
+diff -urN roadfighter-1.0.1269/build/linux/roadfighter.desktop roadfighter-1.0.1269-patched/build/linux/roadfighter.desktop
+--- roadfighter-1.0.1269/build/linux/roadfighter.desktop	2008-03-19 05:14:02.000000000 +1000
++++ roadfighter-1.0.1269-patched/build/linux/roadfighter.desktop	2011-12-14 02:14:14.116189195 +1100
+@@ -1,10 +1,9 @@
+ [Desktop Entry]
+-Encoding=UTF-8
+ Name=Road Fighter
+-Comment=Death race between you and a group of crazy drivers
++Comment=Racing game
+ Exec=roadfighter
+-Icon=roadfighter.png
++Icon=roadfighter
+ Terminal=false
+ Type=Application
+-Categories=Application;Game;ArcadeGame;
++Categories=Game;ArcadeGame;
+ StartupNotify=false
