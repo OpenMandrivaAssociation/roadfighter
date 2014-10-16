@@ -1,6 +1,6 @@
 Name:		roadfighter
 Version:	1.0.1269
-Release:	%mkrel 1
+Release:	2
 Summary:	Konami's Road Fighter remake
 Group:		Games/Arcade
 # http://www.braingames.getput.com/forum/forum_posts.asp?TID=678&PN=1
