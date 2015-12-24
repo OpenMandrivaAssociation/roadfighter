@@ -1,3 +1,5 @@
+%define debug_package %{nil}
+
 Name:		roadfighter
 Version:	1.0.1269
 Release:	3
@@ -11,7 +13,6 @@ Patch0:		roadfighter-1.0.1269-Makefile.patch
 Patch1:		roadfighter-1.0.1269-sformat.patch
 Patch2:		roadfighter-1.0.1269-datapath.patch
 Patch3:		roadfighter-1.0.1269-desktop.patch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}
 BuildRequires:	SDL_image-devel
 BuildRequires:	SDL_mixer-devel
 BuildRequires:	SDL_sound-devel
@@ -64,11 +65,7 @@ desktop-file-install \
   --dir %{buildroot}%{_datadir}/applications \
   build/linux/%{name}.desktop
 
-%clean
-rm -rf %{buildroot}
-
 %files
-%defattr(-,root,root,-)
 %doc readme.txt
 %{_gamesbindir}/%{name}
 %{_gamesdatadir}/%{name}
