@@ -7,7 +7,7 @@ Summary:	Konami's Road Fighter remake
 Group:		Games/Arcade
 # http://www.braingames.getput.com/forum/forum_posts.asp?TID=678&PN=1
 License:	Distributable
-URL:		http://roadfighter.jorito.net/
+URL:		https://roadfighter.jorito.net/
 Source0:	http://braingames.jorito.net/roadfighter/downloads/%{name}.src_%{version}.tgz
 Patch0:		roadfighter-1.0.1269-Makefile.patch
 Patch1:		roadfighter-1.0.1269-sformat.patch
